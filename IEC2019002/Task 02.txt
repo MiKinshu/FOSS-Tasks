@@ -1,0 +1,10 @@
+Hi there!!!
+Myself Tejas Agrawal from EC Sec D Batch 2K19.
+In Geekhaven, I'm majorly interested in following 4 wings:
+
+1.) CyberSec:- To learn how to secure yourself in Cyber World, and to learn ethical hacking skills. Also I wanna learn encryption algorithms to perform well in CTFs.
+2.) AppDev:- To learn the development of interactive and user friendly android applications.
+3.) WebDev:- To learn the development of interactive and user friendly websites in internet world.
+4.) FOSS Wing:- To contribute the all above projects to the open source coomunity so that they can be improved by some good developers.
+ 
+
