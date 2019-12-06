@@ -1,0 +1,3 @@
+WEB DEVLOPEMENT-to lear the basics of web devlopment and to explore this field.
+ANDROID DEVLOPMENT-to learn the android devlopment basics and to create interesting app.
+FOSS-to learn about open source and git .
