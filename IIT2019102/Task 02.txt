@@ -1,0 +1,3 @@
+WebD: Expecting to learn more about new and popular frameworks and start new projects in the journey
+
+FOSS: Learn about git branches as thats still unclear to me xD
