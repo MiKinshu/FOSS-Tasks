@@ -1,0 +1,9 @@
+FOSS
+To learn about open source and its functionality to contribute to big projects in future by learning from scratch.
+The learning of the same should be more of practical than just theorey to get the flow.
+
+WEB DEVELOPMENT
+Learning basics in one month and later learning advanced concepts to make interesting websites.
+
+DESIGN
+Apperarance of any application matters a lot so learning about user interface and user experience will give an edge to development.
