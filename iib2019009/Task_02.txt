@@ -1,0 +1,16 @@
+Geekhaven Wings
+1.AI
+  *To learn about the basics of AI.
+  *Learn about neural network which seems like a interesting topic in DL.
+  *Learn to code on python using libraries like TENSORFLOW.
+  *To learn about application of AI.
+
+2.FOSS
+  *To be able to contribute to projects.
+  *To learn about basic git commands.
+
+3.Appd
+  *To get used to Android Studio.
+  *Make apps.
+  *To learn to create root OS using Android Studio.
+
