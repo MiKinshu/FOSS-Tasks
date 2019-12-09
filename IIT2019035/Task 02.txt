@@ -1,0 +1,19 @@
+1. FOSS
+Since I am a newbie in the world of programming, I had to start somewhere. FOSS seemed as good an option as any.
+I hope to learn more about how open sources softwares work, and how people from the world over can contribute to your project.
+Ihe idea of complete strangers coming together to optimize, augment or improve a program is fascinating.
+I also hope this will help me improve my programming skills.
+
+2. Web Development
+It's common practice among beginners (or so I am led to believe) to pick either AppD or WebD.
+I picked Web Development over App Development because I don't like small screens. Non-sensical reason? Yes. But works for me.
+I expect this Wing to help me gain an insight into how websites are developed at the back end as well as the front end.
+Crafting web pages is a skill which is bound to come in handy in the future.
+
+3. Cyber Security
+Thanks to an unhealthy helping of spy movies and Dan Brown novels, I have always been interested in cryptography.
+All the different ways messages can be hidden in seemingly innocuous places spark a certain excitement in me.
+Hopefully, by joining this Wing, I will learn more about the vast number of ways to encrypt messages, and about how white hat hackers work.
+
+4. Competitive Coding
+I mean, need I elaborate? It's CC.
