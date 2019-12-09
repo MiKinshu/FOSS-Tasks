@@ -1,0 +1,8 @@
+1. FOSS
+     To learn about basic git commands.
+     To able to contribute in projects in future
+
+2. WEBD
+     To learn to make web pages
+
+ 
