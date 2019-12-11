@@ -1,0 +1,9 @@
+Foss
+1)Learning the basics of foss and git
+2)learning about the basics about opensource
+3)learning how to make ccollaborations and contributions to different projects
+WebD
+1)Learning basics about web development and design
+2)familiarizing myself with various softwares used in web development
+Competitive coding
+1)learning basic coding principles
