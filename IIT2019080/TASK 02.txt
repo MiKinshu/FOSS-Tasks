@@ -1,0 +1,4 @@
+1)FOSS
+  To get familiar with how we can contribute to open source.
+2)Web Development
+  To start my own project.
